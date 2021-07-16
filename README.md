@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Murilo
+I'm a frontend developer at GrandChef - Grupo Magalu
+
 <!--
 **mbalves1/mbalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
