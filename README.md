@@ -3,6 +3,9 @@
 My name is Murilo
 I'm a frontend developer at GrandChef - Grupo Magalu
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/) 
+
 <!--
 **mbalves1/mbalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
