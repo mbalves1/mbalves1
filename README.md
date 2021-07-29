@@ -3,6 +3,11 @@
 > My name is Murilo
 I'm a **frontend** developer at **GrandChef** - Magalu
 
+ <div>
+  <a href="https://github.com/mbalves1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbalves1&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/) 
 
