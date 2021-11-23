@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 > My name is Murilo
-I'm a **frontend** developer at **GrandChef** - Magalu
+I'm a **frontend** developer at Empiricus
 
  <div>
   <a href="https://github.com/mbalves1">
