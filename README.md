@@ -6,6 +6,7 @@ I'm a **frontend** developer at Empiricus
 
 
 [https://crypto-currency-h50x5984a-mbalves1.vercel.app/]
+[https://star-wars-02.vercel.app/]
 
  <div>
   <a href="https://github.com/mbalves1">
