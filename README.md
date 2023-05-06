@@ -6,9 +6,8 @@ I'm a **frontend** developer at Franq Open Banking
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/) 
 
 
-> Challenge => https://bovsurvey.vercel.app/#/
-
-> in progress => https://recipes-smart-cook.vercel.app/
+- Challenge => https://bovsurvey.vercel.app/#/
+- in progress => https://recipes-smart-cook.vercel.app/
 
 <!--
 **mbalves1/mbalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
