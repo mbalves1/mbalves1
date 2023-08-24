@@ -11,6 +11,7 @@ I'm a **frontend** developer at Franq Open Banking
 
 - https://backend-finplan.vercel.app/api/services
 - https://backend-finplan.vercel.app/api/cards
+- https://fin-card.vercel.app/
 
 <!--
 **mbalves1/mbalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
