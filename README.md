@@ -9,8 +9,7 @@ I'm a **frontend** developer at Franq Open Banking
 - Challenge => https://bovsurvey.vercel.app/#/
 - https://recipes-smart-cook.vercel.app/
 
-- https://backend-finplan.vercel.app/api/services
-- https://backend-finplan.vercel.app/api/cards
+- https://backend-finplan.vercel.app/api/transactions
 - https://fincard.vercel.app/
 
 <!--
