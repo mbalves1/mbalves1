@@ -12,6 +12,7 @@ I'm a **frontend** developer at Franq Open Banking
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/murilo-de-barros-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilo-de-barros-alves/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Projects:</h3>
 - https://fincard.vercel.app/
 - https://recipes-smart-cook.vercel.app/
 - Challenge => https://bovsurvey.vercel.app/#/
