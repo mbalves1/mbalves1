@@ -69,4 +69,3 @@ I'm a **frontend** developer at Franq Open Banking
   </a>
 </p>
 
--->
