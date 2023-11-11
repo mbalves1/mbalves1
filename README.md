@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Murilo
-I'm a **frontend** developer at Franq Open Banking
+I'm a **frontend** developer
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/) -->
 
