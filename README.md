@@ -9,6 +9,7 @@ I'm a **frontend** developer
 <p align="left">Connect with me:</p>
 <p align="left">
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/) -->
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/)
 <a href="https://www.linkedin.com/in/murilo-de-barros-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilo-de-barros-alves/" height="30" width="40" /></a>
 </p>
 
