@@ -7,10 +7,6 @@ I'm a **frontend** developer
 - 📫 How to reach me **murilobalves1@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/)
-<p align="left">Connect with me:</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/murilo-de-barros-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/murilo-de-barros-alves/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Projects:</h3>
 <p>- https://fincard.vercel.app/</p>
