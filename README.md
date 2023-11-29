@@ -15,7 +15,7 @@ I'm a **frontend** developer
 <p>- Challenge => https://pyt-challenge-oi.vercel.app/</p>
 <p>- https://mbalves1.github.io/welcome-card/</p>
 
-Desafio oportunidade front end: https://github.com/mbalves1/bootstrap-nuxt
+<h3>Desafio oportunidade front end: https://github.com/mbalves1/bootstrap-nuxt </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
