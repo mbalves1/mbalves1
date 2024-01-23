@@ -15,6 +15,10 @@ I'm a **frontend** developer
 <p>- Challenge => https://pyt-challenge-oi.vercel.app/</p> -->
 <p>- https://mbalves1.github.io/welcome-card/</p>
 
+<h3>Desafio oportunidade full stack: Repositório frontend: [ https://github.com/mbalves1/bootstrap-nuxt](https://github.com/mbalves1/upload-front) <br>
+                                   Repositório backend: [https://bootstrap-nuxt.vercel.app/](https://github.com/mbalves1/uploadapi)
+</h3>
+
 <h3>Desafio oportunidade front end Repositório https://github.com/mbalves1/bootstrap-nuxt <br>
                                    Link: https://bootstrap-nuxt.vercel.app/
 </h3>
