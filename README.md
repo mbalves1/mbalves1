@@ -2,7 +2,7 @@
 
 My name is Murilo
 I'm a **frontend** developer
- Vue + Node
+ Javascript at EY
 
 - 📫 How to reach me **murilobalves1@gmail.com**
 
