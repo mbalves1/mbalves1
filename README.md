@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Murilo
-I'm a **frontend** Javascript developer at EY
+I'm a **fullstack** Javascript developer at EY
 
 - 📫 How to reach me **murilobalves1@gmail.com**
 
