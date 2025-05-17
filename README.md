@@ -7,6 +7,9 @@ I'm a **fullstack** Javascript developer at EY
 
 [![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/)
 
+npm profile
+https://www.npmjs.com/~murilodebarros
+
 <h3 align="left">Projects:</h3>
 <p>- https://fincard.vercel.app/</p>
 <p>- https://recipes-smart-cook.vercel.app/</p>
