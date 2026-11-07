@@ -66,4 +66,4 @@ I'm **Murilo**, a **fullstack developer** at **EY**. I build complete web applic
 | **Smart Cook** | Recipe finder app | [Live](https://recipes-smart-cook.vercel.app/) |
 | **OfficeWeb** | Responsive web page | [Live](https://officeweb-sigma.vercel.app/) |
 | **Welcome Card** | Interactive welcome card | [Live](https://mbalves1.github.io/welcome-card/) |
-| **TesteSite** | Interactive Web page | [Live]((https://testesite-kappa-blush.vercel.app/)) |
+| **TesteSite** | Interactive Web page | [Live](https://testesite-kappa-blush.vercel.app/) |
