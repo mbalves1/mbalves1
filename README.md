@@ -1,72 +1,56 @@
 ### Hi there 👋
 
-My name is Murilo
-I'm a **fullstack** Javascript developer at EY
+I'm **Murilo**, a **fullstack developer** at **EY**. I build complete web applications, from **REST and GraphQL APIs in Node.js** to the **Vue.js / Nuxt** interfaces that consume them.
 
-- 📫 How to reach me **murilobalves1@gmail.com**
+- ⚙️ Backend: APIs with **Node.js, Express, TypeScript and GraphQL**, data in **MongoDB**, containerized with **Docker**
+- 🎨 Frontend: **Vue.js, Nuxt**, Vuetify, Quasar and Tailwind
+- 📦 Author of [**m-mask-lib**](https://www.npmjs.com/package/m-mask-lib), an input mask library published on npm
+- 📫 Reach me at **murilobalves1@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Murilo%20Alves-41b883?style=flat-square&logo=Linkedin&logoColor=35495E&link=https://www.linkedin.com/in/murilo-de-barros-alves/)](https://www.linkedin.com/in/murilo-de-barros-alves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Alves-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-de-barros-alves/)
+[![npm](https://img.shields.io/badge/npm-murilodebarros-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~murilodebarros)
+[![Email](https://img.shields.io/badge/Email-murilobalves1%40gmail.com-41b883?style=flat-square&logo=gmail&logoColor=white)](mailto:murilobalves1@gmail.com)
 
-npm profile
-https://www.npmjs.com/~murilodebarros
+---
 
-Lib
-https://www.npmjs.com/package/m-mask-lib
+### 🛠️ Tech stack
 
-<h3 align="left">Projects:</h3>
-<p>- https://fincard.vercel.app/</p>
-<p>- https://recipes-smart-cook.vercel.app/</p>
-<p>- https://officeweb-sigma.vercel.app/</p>
-<!-- <p>- Challenge => https://bovsurvey.vercel.app/#/</p>
-<p>- Challenge => https://pyt-challenge-oi.vercel.app/</p> -->
-<p>- https://mbalves1.github.io/welcome-card/</p>
+**Backend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
- <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
- 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
- 
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
-  </a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+### 🧩 Fullstack & backend projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **FinPlan** | Financial planning app with its own REST API | Node.js · Express · MongoDB · Vue | [API](https://github.com/mbalves1/backend-finplan) · [Front](https://github.com/mbalves1/fin-card) · [Live](https://fincard.vercel.app/) |
+| **Uploadia API** | File upload API | Node.js · TypeScript | [Code](https://github.com/mbalves1/uploadia-api) |
+| **GraphQL Users** | User management with a GraphQL API | GraphQL · Node.js · Vue | [Code](https://github.com/mbalves1/graphql-users-desafio) |
+| **m-mask-lib** | Lightweight input mask library | JavaScript · npm | [npm](https://www.npmjs.com/package/m-mask-lib) |
+
+### 🎨 Frontend projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Smart Cook** | Recipe finder app | [Live](https://recipes-smart-cook.vercel.app/) |
+| **OfficeWeb** | Responsive web page | [Live](https://officeweb-sigma.vercel.app/) |
+| **Welcome Card** | Interactive welcome card | [Live](https://mbalves1.github.io/welcome-card/) |
