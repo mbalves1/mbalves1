@@ -2,8 +2,10 @@
 
 I'm **Murilo**, a **fullstack developer** at **EY**. I build complete web applications, from **REST and GraphQL APIs in Node.js** to the **Vue.js / Nuxt** interfaces that consume them.
 
-- ⚙️ Backend: APIs with **Node.js, Express, TypeScript and GraphQL**, data in **MongoDB**, containerized with **Docker**
-- 🎨 Frontend: **Vue.js, Nuxt**, Vuetify, Quasar and Tailwind
+- ⚙️ **Backend:** REST and GraphQL APIs with **Node.js**, **NestJS** and **Express** in **TypeScript**, including **microservices** architectures
+- 🗄️ **Data:** **PostgreSQL**, **Supabase** and **MongoDB**
+- 🚀 **DevOps & observability:** wrote **CI/CD pipelines** for production projects, containerized apps with **Docker**, and set up monitoring with **Sentry**, **New Relic** and **Hotjar**
+- 🎨 **Frontend:** **Vue.js** and **Nuxt**, with Vuetify, Quasar and Tailwind
 - 📦 Author of [**m-mask-lib**](https://www.npmjs.com/package/m-mask-lib), an input mask library published on npm
 - 📫 Reach me at **murilobalves1@gmail.com**
 
@@ -19,11 +21,21 @@ I'm **Murilo**, a **fullstack developer** at **EY**. I build complete web applic
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**DevOps & observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-555555?style=for-the-badge&logo=githubactions&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
+![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=for-the-badge&logo=hotjar&logoColor=white)
 
 **Frontend**
 
